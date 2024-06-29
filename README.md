@@ -1,2 +1,2 @@
-# winkeypp
+# WinKey++
 Windows Key Generator
